@@ -20,11 +20,11 @@ class PrePostDemo {
         // prints 5
         System.out.println(i);
 
-        // Postfix Operator (expr++ , expr--)
+        // Prefix Operator (++expr)
         // prints 6
         System.out.println(++i); // ++expr evaluates to the incremented value
 
-        // Prefix Operator (++expr)
+        // Postfix Operator (expr++ , expr--)
         // prints 6
         System.out.println(i++); // expr++ evaluates to the original value
 
