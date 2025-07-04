@@ -57,7 +57,7 @@ class Operators {
         //      Negates and expression
         System.out.println(-subtraction);
 
-        // Logical Operator
+        // Logical Operator (!)
         //      Inverts value
         boolean positive = true;
         System.out.println("This is currently: " + positive);
